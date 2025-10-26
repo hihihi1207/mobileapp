@@ -17,3 +17,7 @@ w03
 
 
 <img width="488" height="850" alt="image" src="https://github.com/user-attachments/assets/f29ff46d-9d1d-4d6c-9a34-fcf1a3d4c44b" />
+
+W06
+
+<img width="390" height="861" alt="스크린샷 2025-10-23 오후 9 04 21" src="https://github.com/user-attachments/assets/ad04c6b3-7bc2-4f89-9040-7d51043ede59" />
