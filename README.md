@@ -9,7 +9,7 @@
 <img src="https://github.com/user-attachments/assets/134786bf-22a1-47c6-9a92-f0bdfeea2014" width="250" />
 
 **기능**  
-- 밀리세컨드 단위까지 시간 표시 (00:00:00.000)  
+- 밀리세컨드 단위까지 시간 표시 (00:00:00)  
 - 시작 버튼, 리셋 버튼 제공  
 - 심플하고 직관적인 UI
 
