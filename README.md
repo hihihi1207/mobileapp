@@ -5,13 +5,13 @@
 
 ---
 
-## 🕒 W05 - Stopwatch
-<img src="https://github.com/user-attachments/assets/134786bf-22a1-47c6-9a92-f0bdfeea2014" width="250" />
+## ☕ W03 - Compose Coffee
+<img src="https://github.com/user-attachments/assets/f29ff46d-9d1d-4d6c-9a34-fcf1a3d4c44b" width="250" />
 
 **기능**  
-- 밀리세컨드 단위까지 시간 표시 (00:00:00)  
-- 시작 버튼, 리셋 버튼 제공  
-- 심플하고 직관적인 UI
+- 우송대 앞 좋아하는 카페 소개  
+- 카드 기반 UI  
+- 카페 정보와 이미지 포함
 
 ---
 
@@ -25,13 +25,13 @@
 
 ---
 
-## ☕ W03 - Compose Coffee
-<img src="https://github.com/user-attachments/assets/f29ff46d-9d1d-4d6c-9a34-fcf1a3d4c44b" width="250" />
+## 🕒 W05 - Stopwatch
+<img src="https://github.com/user-attachments/assets/134786bf-22a1-47c6-9a92-f0bdfeea2014" width="250" />
 
 **기능**  
-- 우송대 앞 좋아하는 카페 소개  
-- 카드 기반 UI  
-- 카페 정보와 이미지 포함
+- 밀리세컨드 단위까지 시간 표시 (00:00:00)  
+- 시작 버튼, 리셋 버튼 제공  
+- 심플하고 직관적인 UI
 
 ---
 
@@ -46,6 +46,3 @@
 ---
 
 💡 **Tip:** 각 프로젝트 이미지를 클릭하면 큰 화면으로 볼 수 있습니다.  
-
----
-
